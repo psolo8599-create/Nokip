@@ -1,0 +1,22 @@
+{
+  "name": "OVERLOAD-WEB",
+  "version": "1.0.0",
+  "description": "© BUG API WhatsApp",
+  "main": "overload.js",
+  "scripts": {
+    "start": "node overload.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "https://github.com/WhiskeySockets/Baileys.git#multi-2",
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "latest",
+    "pino": "^9.5.0",
+    "qrcode": "^1.5.4",
+    "readline-sync": "^1.4.10",
+    "telegraf": "^4.16.3",
+    "express": "^4.18.2",
+    "cookie-parser": "^1.4.6",
+    "@octokit/rest": "latest"
+  }
+}
